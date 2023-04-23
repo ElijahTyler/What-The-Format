@@ -1,10 +1,11 @@
 # WhatTheFormat
 
-WhatTheFormat is a Python program that uses `yt-dlp` and `ffmpeg` to download and convert a YouTube video's audio to the desired format, all in one swing. The program can be run either from the command line, via a graphical user interface (GUI), or through the application.
+WhatTheFormat is a Python program that uses `yt-dlp` and `ffmpeg` to download and convert a YouTube video to the desired format, all in one swing. The program can be run either from the command line, via a graphical user interface (GUI), or through the application.
 
 ## Installation
 
-In order to use this program, you must have `yt-dlp` and `ffmpeg` installed on your system. You can install them by running `python -m pip install -r requirements.txt` in the terminal.
+1. Click on Code -> Download ZIP and extract wherever you like
+2. Open Terminal in the project directory and run `python -m pip install -r requirements.txt`
 
 ## Usage
 
