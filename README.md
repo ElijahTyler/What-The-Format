@@ -32,5 +32,16 @@ This will open a window where you can enter the YouTube link and the desired out
 
 ### Application
 
-- Windows : When using wtfmt.exe, replace `python wtfmt.py` with `wtfmt.exe`, and pass arguments as usual.
-- Linux : When using wtfmt, replace `python wtfmt.py` with `./wtfmt`, and pass arguments as usual.
+When using wtfmt.exe, replace
+```
+python wtfmt.py
+```
+with
+```
+Windows:
+wtfmt.exe
+
+Linux:
+./wtfmt
+```
+and pass arguments as usual.
