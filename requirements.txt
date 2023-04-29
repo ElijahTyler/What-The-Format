@@ -1,2 +1,3 @@
+tkinter
 yt-dlp
 ffmpeg
