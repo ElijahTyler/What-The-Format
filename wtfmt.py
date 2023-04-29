@@ -17,7 +17,7 @@ def convert(link, filename):
         pass
 
 
-# how the f*** does tkinter work
+# how does tkinter work
 if '--gui' in sys.argv:
     root = Tk()
     root.title("WhatTheFormat")
