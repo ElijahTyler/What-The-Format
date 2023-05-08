@@ -19,7 +19,7 @@ setup(
             "excludes": ["tkinter"],
             "include_files": []
         },
-        "build_ext": {"compiler": "i686-w64-mingw32-"} # didn't work to compile a .exe file for Windows
+        "build_ext": {"compiler": "i686-w64-mingw32-"} # didn't work to compile a .exe file for Windows, probably try again on Windows lmao
     },
     executables=[Executable("wtfmt.py")],
     # Specify the MinGW cross-compiler here
